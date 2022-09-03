@@ -1,3 +1,7 @@
 ccxt
 pandas-ta
 websocket-client
+json
+requests
+colorama
+yfinance
