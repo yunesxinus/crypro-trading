@@ -10,8 +10,3 @@ for k, v in x.items():
     rs.append(v)
 
 print(rs[-1])
-
-if shart > 50:
-    print('Sell')
-else:
-    print('Buy')
